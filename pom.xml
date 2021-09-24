@@ -15,6 +15,7 @@
         <module>shiro-05-ciphertext-realm</module>
         <module>shiro-06-authentication-realm</module>
         <module>shiro-07-web</module>
+        <module>shiro-08-web-java</module>
     </modules>
 
     <packaging>pom</packaging>
